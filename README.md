@@ -30,6 +30,16 @@ also I am a certified AI engineer here is my [certificate](Ahmadjamil888/certifi
 - Large Language Model fine-tuning
 - Scalable AI deployment
 
+### courses done by Ahmad jamil
+- Microsoft python for beginners 
+- W3 Schools HTML
+- W3 Schools CSS
+- Harvard CS50
+- Harvard CS50's AI with python
+- LLM from scratch by vizuara AI labs
+- AI beginners course by XEVEN technologies limited
+- HP LIFE AI for beginners
+
 ### 📫 Let's Connect
 - Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)
 
