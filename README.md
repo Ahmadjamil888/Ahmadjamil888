@@ -1,13 +1,11 @@
 # Salaam, I'm Ahmad Jamil 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/Ahmadjamil888?style=social)](https://github.com/Ahmadjamil888)
 
 15-year-old CEO | AI Enthusiast | Full-Stack Developer | Quran Hafiz
 
 ### 🚀 About Me
-- CEO of [Ameenor](https://ameenor.com) (AI Company) and [iyuser](https://iyuser.com) (Web Development)
+- CEO of [Ameenor](https://ameenor.odoo.com) (AI Company) and [iyuser](https://ahmadjamil888.github.io/iyuser.html) (Web Development)
 - 3+ years of coding and UI/UX experience
 - Passionate about AI/ML with several production projects
 - Memorized the Holy Quran (Hafiz)
@@ -33,8 +31,6 @@
 - Scalable AI deployment
 
 ### 📫 Let's Connect
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Ahmad Jamil](https://linkedin.com/in/yourprofile)
+- Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)
 
 "Indeed, with hardship comes ease." (Quran 94:6)
