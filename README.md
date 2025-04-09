@@ -3,7 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadjamil888?style=social)](https://github.com/Ahmadjamil888)
 
 15-year-old CEO | AI Enthusiast | Full-Stack Developer | Quran Hafiz
-also I am a certified AI engineer here is my [certificate](Ahmadjamil888/Ahmadjamil888/certificate.pdf) 
+also I am a certified AI engineer here is my [certificate](![image](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6)
+) 
 ### 🚀 About Me
 - CEO of [Ameenor](https://ameenor.odoo.com) (AI Company) and [iyuser](https://ahmadjamil888.github.io/iyuser.html) (Web Development)
 - 3+ years of coding and UI/UX experience
