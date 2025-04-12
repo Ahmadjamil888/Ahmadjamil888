@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadjamil888?style=social)](https://github.com/Ahmadjamil888)
 
-15-year-old CEO | AI Enthusiast | Full-Stack Developer | Quran Hafiz
+15-year-old CEO | AI Enthusiast | Full-Stack Developer | 
 also I am a certified AI engineer here is my [certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6
 ) 
 ### 🚀 About Me
@@ -10,7 +10,6 @@ also I am a certified AI engineer here is my [certificate](https://github.com/us
 - 6 months in freelancing experience
 - 3+ years of coding and UI/UX experience
 - Passionate about AI/ML with several production projects
-- Memorized the Holy Quran (Hafiz)
 - Building the future while balancing school life
 
 ### 🔥 Notable Projects
