@@ -2,12 +2,12 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadjamil888?style=social)](https://github.com/Ahmadjamil888)
 
-15-year-old CEO | AI Enthusiast | Full-Stack Developer | 
+15-year-old CEO | AI Enthusiast | Full-Stack Developer | freelancer on [upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
 also I am a certified AI engineer here is my [certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6
 ) 
 ### 🚀 About Me
 - CEO of [Ameenor](https://ameenor.odoo.com) (AI Company) and [iyuser](https://ahmadjamil888.github.io/iyuser.html) (Web Development)
-- 6 months in freelancing experience
+- serving as a freelancer on upwork
 - 3+ years of coding and UI/UX experience
 - Passionate about AI/ML with several production projects
 - Building the future while balancing school life
