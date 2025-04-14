@@ -1,11 +1,6 @@
 # Salaam, I'm Ahmad Jamil 👋
 
 <img src="https://avatars.githubusercontent.com/u/190023070?s=400&u=71d85456a4eafc54ddf90eb582a1bca21e0ec824&v=4">
-<style>
-  body{
-    background-color: yellow;
-    }
-</style>
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmadjamil888?style=social)](https://github.com/Ahmadjamil888)
 
