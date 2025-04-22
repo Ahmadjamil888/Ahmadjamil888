@@ -8,7 +8,7 @@
 also I am a certified AI engineer here is my [certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6
 ) 
 ### 🚀 About Me
-- CEO of [Ameenor](https://ameenor.odoo.com) (AI Company) and [iyuser](https://ahmadjamil888.github.io/iyuser.html) (Web Development)
+- CEO of [Ameenor](https://ameenor.odoo.com) (AI Company) and [Aurion softwares](https://aurionsoft.site/) (Web Development)
 - serving as a freelancer on [upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
 - 3+ years of coding and UI/UX experience
 - Passionate about AI/ML with several production projects
