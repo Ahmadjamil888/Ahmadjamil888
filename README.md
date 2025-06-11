@@ -1,52 +1,59 @@
 # Salaam, I'm Ahmad Jamil 👋
 
-[![Watch My Journey](https://img.youtube.com/vi/5jKewobu2dM/0.jpg)](https://www.youtube.com/watch?v=5jKewobu2dM&t=1s)
-
-[![GitHub followers](https://img.shields.io/github/followers/Ahmadjamil888?style=social)](https://github.com/Ahmadjamil888)
-
-**15-year-old CEO | AI Enthusiast | Full-Stack Developer | Freelancer on [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)**
-
-🔹 I am also a **certified AI engineer** — view my [certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jKewobu2dM?start=1" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-### 🚀 About Me
-- CEO of [Ameenor](https://ameenor.odoo.com) (AI Company) and [Aurion Softwares](https://aurionsoft.site/) (Web Development)
-- Active freelancer on [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
-- 3+ years of experience in coding and UI/UX design
-- Passionate about AI/ML with multiple production-ready projects
-- Building the future while balancing school life
+**Ahmad Jamil**  
+15-year-old CEO | AI Researcher & Developer | Full-Stack Engineer | Freelancer on [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
+
+Certified AI Engineer – [View Certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6)
 
 ---
 
-### 🔥 Notable Projects
-- **Ahmad GPT** – Custom AI assistant  
-- **Janjua Tailors Bot** – Business automation solution  
-- **Agentix** – AI agent platform  
-- **Finance GPT** – Financial AI assistant  
-- **MEDIAX AI** – Media processing AI  
+## About Me
+
+- Founder & CEO of [Ameenor](https://ameenor.odoo.com) (AI solutions) and [Aurion Softwares](https://aurionsoft.site/) (Web development)
+- Over 3 years of experience in software development, AI, and UI/UX design
+- Passionate about building intelligent systems and solving real-world problems with AI
+- Currently managing startups while continuing education with a long-term vision for innovation
 
 ---
 
-### 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+## Notable Projects
+
+- **Ahmad GPT** – Personal AI assistant  
+- **Janjua Tailors Bot** – Automated business solution  
+- **Agentix** – Multi-agent AI platform  
+- **Finance GPT** – AI-powered financial advisor  
+- **MEDIAX AI** – Smart media and video processing system  
 
 ---
 
-### 🌱 Currently Learning
-- Advanced Machine Learning architectures  
-- Large Language Model fine-tuning  
-- Scalable AI deployment  
+## Technical Skills
+
+- **Languages & Frameworks**: Python, JavaScript, PHP, Laravel  
+- **Web Development**: React, Next.js, WordPress  
+- **Databases**: MySQL, MongoDB  
+- **AI & ML**: TensorFlow, LLM fine-tuning, EDA (Exploratory Data Analysis)  
+- **Design & Media**: Graphic Designing, Video Generation  
+- **Tools**: AWS, VS Code  
 
 ---
 
-### 📚 Courses Completed
+## Currently Learning
+
+- Advanced machine learning architectures  
+- Fine-tuning large language models (LLMs)  
+- Scalable AI deployment strategies  
+- Quantum AI and future technologies  
+
+---
+
+## Courses Completed
+
 - Microsoft: Python for Beginners  
-- W3Schools: HTML & CSS  
+- W3Schools: HTML and CSS  
 - Harvard CS50  
 - Harvard CS50's AI with Python  
 - LLM from Scratch – Vizuara AI Labs  
@@ -55,7 +62,10 @@
 
 ---
 
-### 📫 Let's Connect
-- Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)
+## Contact
 
-> _"Indeed, with hardship comes ease."_ — Quran 94:6
+Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)
+
+---
+
+_"Indeed, with hardship comes ease."_ — Quran 94:6
