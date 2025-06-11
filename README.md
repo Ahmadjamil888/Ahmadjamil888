@@ -1,6 +1,6 @@
 # Salaam, I'm Ahmad Jamil 👋
 
-<img src="https://www.youtube.com/embed/5jKewobu2dM?start=1">
+[![Watch Video](https://img.youtube.com/vi/5jKewobu2dM/0.jpg)](https://www.youtube.com/watch?v=5jKewobu2dM&t=1s)
 
 ---
 
