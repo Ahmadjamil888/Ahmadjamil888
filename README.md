@@ -1,6 +1,6 @@
 # Ahmad Jamil
 
-![Futuristic Banner](https://images.unsplash.com/photo-1604147706284-4627fbe5f6c3?auto=format&fit=crop&w=1600&q=80)
+![Futuristic Banner](https://i.imgur.com/Nj1v4Rx.jpeg)
 
 ---
 
@@ -8,85 +8,83 @@
 
 ![Profile](https://avatars.githubusercontent.com/u/190023070?v=4)
 
-I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer with a strong foundation in software engineering and artificial intelligence. I specialize in developing intelligent systems that merge design and performance at scale. My mission is to shape the future with purpose-driven AI.
+I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer. With 3+ years of deep technical work in software, AI, and design, I build intelligent platforms to solve real-world problems.
 
-- **CEO & Founder of Ameenor & Aurion Softwares**
-- **3+ years experience** in software, AI, and UI/UX
-- **Certified AI Engineer** ([Certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6))
-- Actively building startups, tools, and intelligent platforms
-
----
-
-## 🌌 Visual Showcase
-
-![Futuristic UI](https://images.unsplash.com/photo-1629904853716-f0bc54eea481?auto=format&fit=crop&w=1600&q=80)  
-![Digital Intelligence](https://images.unsplash.com/photo-1612874741523-3b28e22ba5c4?auto=format&fit=crop&w=1600&q=80)  
-![Cyber System](https://images.unsplash.com/photo-1607083206833-5d13bd8c6a6d?auto=format&fit=crop&w=1600&q=80)  
-![Tech Grid](https://images.unsplash.com/photo-1633158829585-b8e61b8f2453?auto=format&fit=crop&w=1600&q=80)  
-![Futuristic Network](https://images.unsplash.com/photo-1616120657591-7b4e1dd2cf9b?auto=format&fit=crop&w=1600&q=80)
+- Founder & CEO of [Ameenor](https://ameenor.odoo.com) and [Aurion Softwares](https://aurionsoft.site/)
+- Certified AI Engineer ([View Certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6))
+- Freelancer on [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
+- Focused on innovation, scalability, and ethical AI
 
 ---
 
-## 🧠 Key Projects
+## 🌌 Futuristic Visuals
 
-| Project Name         | Description                                 |
-|----------------------|---------------------------------------------|
-| **Ahmad GPT**        | Personal assistant with NLP & voice         |
-| **Janjua Tailors Bot** | AI for local business automation          |
-| **Agentix**          | Multi-agent intelligent coordination system |
-| **Finance GPT**      | AI financial planning advisor               |
-| **MEDIAX AI**        | AI-powered video intelligence platform      |
+![Future Grid](https://i.imgur.com/DhvU1cJ.jpeg)  
+![Neon Tech](https://i.imgur.com/v5h7YoE.jpeg)  
+![AI Data Flow](https://upload.wikimedia.org/wikipedia/commons/6/6b/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)  
+![Machine Brain](https://upload.wikimedia.org/wikipedia/commons/1/17/Deep_Learning.jpg)  
+![Cyber Intelligence](https://i.imgur.com/dwnzzvN.jpeg)
+
+---
+
+## 🧠 Projects
+
+| Project             | Description                                 |
+|---------------------|---------------------------------------------|
+| **Ahmad GPT**        | Voice-enabled personal assistant            |
+| **Janjua Tailors Bot** | AI for business automation                |
+| **Agentix**          | Multi-agent coordination platform           |
+| **Finance GPT**      | AI-powered financial advisor                |
+| **MEDIAX AI**        | AI video intelligence & enhancement         |
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages**: Python, JavaScript, PHP  
-**Frameworks**: Laravel, React, Next.js  
-**AI/ML Tools**: TensorFlow, Scikit-learn, LLM Fine-Tuning, EDA  
-**Databases**: MySQL, MongoDB  
-**DevOps**: Git, AWS, Docker  
-**Design**: Figma, Framer, Adobe XD  
-**Tools**: Postman, VS Code, WordPress
+- **Languages**: Python, JavaScript, PHP  
+- **Frameworks**: Laravel, React, Next.js  
+- **AI/ML**: TensorFlow, LLM Fine-Tuning, Scikit-learn  
+- **Databases**: MySQL, MongoDB  
+- **DevOps & Tools**: Git, Docker, AWS, VS Code  
+- **Web**: WordPress, Framer  
+- **Design**: Figma, Adobe XD
 
 ---
 
-## 📚 Currently Learning
+## 📘 Currently Learning
 
-- Cutting-edge ML architectures (Transformers, RLHF)
-- LLM fine-tuning and model compression
-- Scalable deployment pipelines
-- Quantum AI frameworks and applications
+- Advanced Transformer architectures  
+- Fine-tuning large language models (LLMs)  
+- Scalable AI deployment with cloud solutions  
+- Quantum AI applications in defense and research  
 
 ---
 
 ## 🎓 Certifications
 
-| Course                               | Provider                   |
-|-------------------------------------|----------------------------|
-| Python for Beginners                | Microsoft                  |
-| HTML/CSS                            | W3Schools                  |
-| CS50 (Computer Science)             | Harvard                    |
-| CS50’s AI with Python               | Harvard                    |
-| LLM From Scratch                    | Vizuara AI Labs            |
-| AI for Beginners                    | XEVEN Technologies         |
-| AI for Beginners                    | HP LIFE                    |
+| Course                          | Provider                  |
+|--------------------------------|---------------------------|
+| Python for Beginners           | Microsoft                 |
+| HTML & CSS                     | W3Schools                 |
+| CS50: Introduction to CS       | Harvard University        |
+| CS50’s AI with Python          | Harvard University        |
+| LLM from Scratch               | Vizuara AI Labs           |
+| AI for Beginners               | XEVEN Technologies        |
+| AI for Beginners               | HP LIFE                   |
 
 ---
 
-## 🔗 Links
+## 📫 Contact
 
-- **Upwork**: [My Freelancer Profile](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
 - **Email**: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
-- **Website**: [Aurion Softwares](https://aurionsoft.site/) | [Ameenor](https://ameenor.odoo.com)
+- **Freelancer Profile**: [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
+- **Website**: [Aurion Softwares](https://aurionsoft.site/)
 
 ---
-
-## 💬 Philosophy
 
 > "_Indeed, with hardship comes ease._"  
 > — Quran 94:6
 
 ---
 
-![Futuristic End](https://images.unsplash.com/photo-1609931444526-e34b87b5e1cc?auto=format&fit=crop&w=1600&q=80)
+![AI Future](https://i.imgur.com/nbJdnKu.jpeg)
