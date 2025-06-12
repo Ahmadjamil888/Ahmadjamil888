@@ -17,16 +17,6 @@ I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer.
 
 ---
 
-## 🌌 Futuristic Visuals
-
-![Future Grid](https://i.imgur.com/DhvU1cJ.jpeg)  
-![Neon Tech](https://i.imgur.com/v5h7YoE.jpeg)  
-![AI Data Flow](https://upload.wikimedia.org/wikipedia/commons/6/6b/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg)  
-![Machine Brain](https://upload.wikimedia.org/wikipedia/commons/1/17/Deep_Learning.jpg)  
-![Cyber Intelligence](https://i.imgur.com/dwnzzvN.jpeg)
-
----
-
 ## 🧠 Projects
 
 | Project             | Description                                 |
@@ -39,7 +29,7 @@ I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Languages**: Python, JavaScript, PHP  
 - **Frameworks**: Laravel, React, Next.js  
@@ -51,7 +41,7 @@ I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer.
 
 ---
 
-## 📘 Currently Learning
+##  Currently Learning
 
 - Advanced Transformer architectures  
 - Fine-tuning large language models (LLMs)  
@@ -60,7 +50,7 @@ I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer.
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 | Course                          | Provider                  |
 |--------------------------------|---------------------------|
@@ -74,7 +64,7 @@ I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - **Email**: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
 - **Freelancer Profile**: [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
