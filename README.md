@@ -84,11 +84,11 @@ Currently, I am:
 
 ## Contact
 
-- 📧 Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
-- 🌐 Website: [aurionsoft.site](https://aurionsoft.site)  
-- 🧠 AI Hub: [Ameenor](https://ameenor.odoo.com)  
-- 🧳 Upwork: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
-- 🤖 Hugging Face: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
+-  Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
+-  Website: [aurionsoft.site](https://aurionsoft.site)  
+-  AI Hub: [Ameenor](https://ameenor.odoo.com)  
+-  Upwork: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
+-  Hugging Face: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
 
 ---
 
@@ -97,4 +97,4 @@ Currently, I am:
 
 ---
 
-![Footer Image](https://i.imgur.com/nbJdnKu.jpeg)
+![Footer Image]([https://i.imgur.com/nbJdnKu.jpeg](https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGNvZGluZ3xlbnwwfHwwfHx8MA%3D%3D))
