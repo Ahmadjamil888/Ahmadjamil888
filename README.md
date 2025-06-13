@@ -1,56 +1,74 @@
-# Hi, I am Ahmad Jamil
+# Ahmad Jamil
 
-![Futuristic Banner](https://images.unsplash.com/photo-1605379399642-870262d3d051?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww)
+![Banner](https://images.unsplash.com/photo-1605379399642-870262d3d051?w=1200&auto=format&fit=crop&q=80&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww)
 
 ---
-Ahmad Jamil is AI researcher, and full-stack engineer with years of hands-on experience in software development, artificial intelligence, and UI/UX design. As the founder and CEO of two startups—Ameenor (AI solutions) and Aurion Softwares (web technologies)—he has led the development of intelligent systems used across industries. Certified in AI and skilled in fine-tuning LLMs, Ahmad builds next-gen platforms focused on real-world impact. Passionate, visionary, and driven by innovation, he’s actively shaping the future of AI—one breakthrough at a time.
-## 👤 About Me
+
+## About
 
 ![Profile](https://avatars.githubusercontent.com/u/190023070?v=4)
 
-I'm **Ahmad Jamil**, AI Researcher, and Full-Stack Developer. With years of deep technical work in software, AI, and design, I build intelligent platforms to solve real-world problems.
+I am a software developer and AI researcher focused on building intelligent systems with real-world applications. My work spans web development, machine learning, UI engineering, and cloud architecture.
 
-- Founder & CEO of [Ameenor](https://ameenor.odoo.com) and [Aurion Softwares](https://aurionsoft.site/)
-- Certified AI Engineer ([View Certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6))
-- Freelancer on [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
-- Focused on innovation, scalability, and ethical AI
-
----
-
-## 🧠 Projects
-
-| Project             | Description                                 |
-|---------------------|---------------------------------------------|
-| **Ahmad GPT**        | Voice-enabled personal assistant            |
-| **Janjua Tailors Bot** | AI for business automation                |
-| **Agentix**          | Multi-agent coordination platform           |
-| **Finance GPT**      | AI-powered financial advisor                |
-| **MEDIAX AI**        | AI video intelligence & enhancement         |
+Currently, I am:
+- Founder at [Ameenor](https://ameenor.odoo.com) (AI-based development)
+- Founder at [Aurion Softwares](https://aurionsoft.site/) (Web and SaaS solutions)
+- Intern at **Aurion Tech Global**
+- Author & Blogger at **IRTCoP (International Road Transport Chamber of Pakistan)**
 
 ---
 
-##  Tech Stack
+## Featured Projects
+
+| Project | Type | Summary |
+|--------|------|---------|
+| [**Ahmad GPT**](https://github.com/Ahmadjamil888/AhmadGPT) | AI / NLP | Multimodal AI with LLMs for text, code, and speech generation |
+| [**Quranic Scholar AI**](https://github.com/Ahmadjamil888/quranic-scholar-ai) | NLP + Islamic Studies | LLM-powered Quranic assistant with contextual understanding |
+| [**DocuPaste**](https://github.com/Ahmadjamil888/docupaste) | File/SaaS | Secure platform for document storage, search, and conversion |
+| [**Smart Resume Reader**](https://github.com/Ahmadjamil888/smart-resume-reader) | AI / SaaS | Resume analyzer powered by GPT with a clean user interface |
+| [**Qubit Web Wizard**](https://github.com/Ahmadjamil888/qubit-web-wizard) | Quantum / Education | Educational tool to simplify concepts of quantum computing |
+
+---
+
+## Other Notable Repositories
+
+- [**Insta Glow Verse**](https://github.com/Ahmadjamil888/insta-glow-verse) – Full-featured Instagram clone  
+- [**Cardly AI Guide**](https://github.com/Ahmadjamil888/cardly-ai-guide) – AI vCard builder SaaS template  
+- [**Ink Flow Share**](https://github.com/Ahmadjamil888/ink-flow-share) – Medium-style blog generator with auth & history  
+- [**Electro Blitz**](https://github.com/Ahmadjamil888/electro-blitz) – React-based eCommerce UI  
+- [**ARMANsoft**](https://github.com/Ahmadjamil888/ARMANsoft) – Laravel-powered business web app  
+- [**My Wakeel**](https://github.com/Ahmadjamil888/my-wakeel) – AI-powered legal assistant interface  
+- [**Fileflux Transformer**](https://github.com/Ahmadjamil888/fileflux-transformer) – File format converter (PDF, CSV, etc.)  
+- [**Pak Maps**](https://github.com/Ahmadjamil888/pak-maps) – Navigation and city travel planner for Pakistan  
+- [**Aziz AI**](https://github.com/Ahmadjamil888/Aziz-AI), [**Jinnah AI**](https://github.com/Ahmadjamil888/jinnah-AI), [**Faiz AI**](https://github.com/Ahmadjamil888/faiz-ai) – Urdu/English assistants  
+- [**File Threat Finder**](https://github.com/Ahmadjamil888/file-threat-finder) – File scanner for potential threats  
+
+> View all repositories at [github.com/Ahmadjamil888](https://github.com/Ahmadjamil888?tab=repositories)
+
+---
+
+## Tech Stack
 
 - **Languages**: Python, JavaScript, PHP  
-- **Frameworks**: Laravel, React, Next.js  
-- **AI/ML**: TensorFlow, LLM Fine-Tuning, Scikit-learn  
+- **Frameworks**: React, Laravel, Next.js  
+- **AI/ML**: TensorFlow, HuggingFace, Langchain, Scikit-learn  
+- **DevOps**: Docker, AWS, Vercel  
 - **Databases**: MySQL, MongoDB  
-- **DevOps & Tools**: Git, Docker, AWS, VS Code  
-- **Web**: WordPress, Framer  
-- **Design**: Figma, Adobe XD
+- **Web Platforms**: WordPress, Odoo  
+- **Design**: Figma, Tailwind, Framer, Adobe XD  
 
 ---
 
-##  Currently Learning
+## Learning Focus
 
-- Advanced Transformer architectures  
-- Fine-tuning large language models (LLMs)  
-- Scalable AI deployment with cloud solutions  
-- Quantum AI applications in defense and research  
+- Transformer optimization and LLM fine-tuning  
+- Quantum AI applications in research and defense  
+- Building scalable AI apps using serverless architecture  
+- Open-source contribution to generative AI tools  
 
 ---
 
-##  Certifications
+## Certifications
 
 | Course                          | Provider                  |
 |--------------------------------|---------------------------|
@@ -64,11 +82,13 @@ I'm **Ahmad Jamil**, AI Researcher, and Full-Stack Developer. With years of deep
 
 ---
 
-##  Contact
+## Contact
 
-- **Email**: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
-- **Freelancer Profile**: [Upwork](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
-- **Website**: [Aurion Softwares](https://aurionsoft.site/)
+- 📧 Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
+- 🌐 Website: [aurionsoft.site](https://aurionsoft.site)  
+- 🧠 AI Hub: [Ameenor](https://ameenor.odoo.com)  
+- 🧳 Upwork: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
+- 🤖 Hugging Face: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
 
 ---
 
@@ -77,4 +97,4 @@ I'm **Ahmad Jamil**, AI Researcher, and Full-Stack Developer. With years of deep
 
 ---
 
-![AI Future](https://i.imgur.com/nbJdnKu.jpeg)
+![Footer Image](https://i.imgur.com/nbJdnKu.jpeg)
