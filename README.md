@@ -6,8 +6,6 @@
 
 ## About
 
-![Profile](https://avatars.githubusercontent.com/u/190023070?v=4)
-
 I am a software developer and AI researcher focused on building intelligent systems with real-world applications. My work spans web development, machine learning, UI engineering, and cloud architecture.
 
 Currently, I am:
