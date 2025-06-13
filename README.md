@@ -3,12 +3,12 @@
 ![Futuristic Banner](https://images.unsplash.com/photo-1605379399642-870262d3d051?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZGV2ZWxvcGVyfGVufDB8fDB8fHww)
 
 ---
-Ahmad Jamil is a 15-year-old tech prodigy, AI researcher, and full-stack engineer with over 3 years of hands-on experience in software development, artificial intelligence, and UI/UX design. As the founder and CEO of two startups—Ameenor (AI solutions) and Aurion Softwares (web technologies)—he has led the development of intelligent systems used across industries. Certified in AI and skilled in fine-tuning LLMs, Ahmad builds next-gen platforms focused on real-world impact. Passionate, visionary, and driven by innovation, he’s actively shaping the future of AI—one breakthrough at a time.
+Ahmad Jamil is AI researcher, and full-stack engineer with years of hands-on experience in software development, artificial intelligence, and UI/UX design. As the founder and CEO of two startups—Ameenor (AI solutions) and Aurion Softwares (web technologies)—he has led the development of intelligent systems used across industries. Certified in AI and skilled in fine-tuning LLMs, Ahmad builds next-gen platforms focused on real-world impact. Passionate, visionary, and driven by innovation, he’s actively shaping the future of AI—one breakthrough at a time.
 ## 👤 About Me
 
 ![Profile](https://avatars.githubusercontent.com/u/190023070?v=4)
 
-I'm **Ahmad Jamil**, a 15-year-old CEO, AI Researcher, and Full-Stack Developer. With 3+ years of deep technical work in software, AI, and design, I build intelligent platforms to solve real-world problems.
+I'm **Ahmad Jamil**, AI Researcher, and Full-Stack Developer. With years of deep technical work in software, AI, and design, I build intelligent platforms to solve real-world problems.
 
 - Founder & CEO of [Ameenor](https://ameenor.odoo.com) and [Aurion Softwares](https://aurionsoft.site/)
 - Certified AI Engineer ([View Certificate](https://github.com/user-attachments/assets/6b687104-7f87-432d-89b9-2e05ce86abb6))
