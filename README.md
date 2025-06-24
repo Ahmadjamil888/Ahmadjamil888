@@ -6,11 +6,11 @@
 
 ## About
 
-I am a software developer and AI researcher focused on building intelligent systems with real-world applications. My work spans web development, machine learning, UI engineering, and cloud architecture.
+I am a Full Stack web developer and AI researcher focused on building intelligent systems with real-world applications. My work spans web development, machine learning, UI engineering, and cloud architecture.
 
 Currently, I am:
 - Founder at [Ameenor](https://ameenor.odoo.com) (AI-based development)
-- Founder at [Aurion Softwares](https://aurionsoft.site/) (Web and SaaS solutions)
+- visit at [Aurion Softwares](https://aurionsoft.site/) (Web and SaaS solutions)
 - Intern at **Aurion Tech Global**
 - Author & Blogger at **IRTCoP (International Road Transport Chamber of Pakistan)**
 
@@ -83,7 +83,7 @@ Currently, I am:
 ## Contact
 
 -  Email: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
--  Website: [aurionsoft.site](https://aurionsoft.site)  
+-  Website: [DHAMIA](https://dhamia.vercel.app)  
 -  AI Hub: [Ameenor](https://ameenor.odoo.com)  
 -  Upwork: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
 -  Hugging Face: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
