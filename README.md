@@ -24,24 +24,31 @@ He is affiliated with the following:
 |--------------|--------|-------------|
 | [AhmadGPT](https://github.com/Ahmadjamil888/AhmadGPT) | Language Modeling | A custom-built generative language model with support for multimodal capabilities including text, code, and speech. |
 | [Quranic Scholar AI](https://github.com/Ahmadjamil888/quranic-scholar-ai) | NLP + Religion | An AI-based platform that helps users explore and understand the Quran using natural language understanding and context-based retrieval. |
-| [DocuPaste](https://github.com/Ahmadjamil888/docupaste) | SaaS / Productivity | A secure application for document upload, conversion, and contextual indexing, supporting multiple file types. |
-| [Smart Resume Reader](https://github.com/Ahmadjamil888/smart-resume-reader) | NLP / Automation | A GPT-enhanced resume evaluation tool that extracts, analyzes, and visualizes candidate data. |
-| [Qubit Web Wizard](https://github.com/Ahmadjamil888/qubit-web-wizard) | Education | An educational visualization tool to introduce learners to the fundamentals of quantum computing and quantum bits. |
+| [Sentiment Analysis Model](https://github.com/Ahmadjamil888/Sentiment-Analysis-Model-AI) | NLP | A machine learning model that classifies sentiment in text as positive or negative. |
+| [A* Pathfinding Visualizer](https://github.com/Ahmadjamil888/AI-pathfinder-astarpathfinder) | Algorithms | A visual implementation of the A* pathfinding algorithm with a clean UI. |
+| [Custom LLM Model Downloader](https://github.com/Ahmadjamil888/CUSTOM-LLM-MODEL-DL) | Infrastructure | Tool to download, configure, and prepare custom LLM models for research and development. |
+| [Crypto AI Trading Bot (LSTM)](https://github.com/Ahmadjamil888/CRYPTO-AI-TRADING-BOT-LSTM) | Time Series / Finance | An AI trading bot using LSTM to analyze and predict market trends for cryptocurrencies. |
+| [Realtime Object Detection Surveillance](https://github.com/Ahmadjamil888/REALTIME-OBJ-DETECTION-SURVEILLANCE) | Computer Vision | An AI system for real-time object detection used for surveillance and monitoring environments. |
+| [Pneumonia X-ray Detection Model](https://github.com/Ahmadjamil888/PNEUMONIA-XRAY-AI-model) | Medical Imaging | A convolutional neural network model designed to detect pneumonia in chest X-ray images. |
+| [Facial Recognition AI Model](https://github.com/Ahmadjamil888/Facial-Recognition-AI-model) | Biometrics | A face detection and recognition model trained on labeled facial datasets. |
 
 ---
 
 ## Additional Projects
 
-- [Insta Glow Verse](https://github.com/Ahmadjamil888/insta-glow-verse): A functional photo-sharing platform replicating core features of Instagram.
-- [Cardly AI Guide](https://github.com/Ahmadjamil888/cardly-ai-guide): An AI-based digital business card generator with interactive sharing.
-- [Ink Flow Share](https://github.com/Ahmadjamil888/ink-flow-share): A minimalist publishing tool inspired by blogging platforms, with revision history and account management.
-- [Electro Blitz](https://github.com/Ahmadjamil888/electro-blitz): A user interface for an eCommerce application built with React.
-- [ARMANsoft](https://github.com/Ahmadjamil888/ARMANsoft): A Laravel-powered business management system.
-- [My Wakeel](https://github.com/Ahmadjamil888/my-wakeel): A prototype legal assistant with AI-based form analysis and interaction.
-- [Fileflux Transformer](https://github.com/Ahmadjamil888/fileflux-transformer): A utility tool that supports the conversion of various file formats.
-- [Pak Maps](https://github.com/Ahmadjamil888/pak-maps): A navigation planner focused on major cities in Pakistan, including travel routes and public locations.
-- [Aziz AI](https://github.com/Ahmadjamil888/Aziz-AI), [Jinnah AI](https://github.com/Ahmadjamil888/jinnah-AI), [Faiz AI](https://github.com/Ahmadjamil888/faiz-ai): A series of assistant tools supporting multilingual interaction for Urdu-speaking users.
-- [File Threat Finder](https://github.com/Ahmadjamil888/file-threat-finder): A threat detection scanner to assess potential malware and integrity issues in files.
+- [DocuPaste](https://github.com/Ahmadjamil888/docupaste): A secure document upload and conversion platform.  
+- [Smart Resume Reader](https://github.com/Ahmadjamil888/smart-resume-reader): A GPT-enhanced resume analysis tool.  
+- [Qubit Web Wizard](https://github.com/Ahmadjamil888/qubit-web-wizard): An educational app for quantum computing basics.  
+- [Insta Glow Verse](https://github.com/Ahmadjamil888/insta-glow-verse): A social media UI prototype.  
+- [Cardly AI Guide](https://github.com/Ahmadjamil888/cardly-ai-guide): AI-enhanced business card generator.  
+- [Ink Flow Share](https://github.com/Ahmadjamil888/ink-flow-share): Markdown-based blog tool with history and authentication.  
+- [Electro Blitz](https://github.com/Ahmadjamil888/electro-blitz): UI for an eCommerce platform.  
+- [ARMANsoft](https://github.com/Ahmadjamil888/ARMANsoft): A Laravel-based business dashboard.  
+- [My Wakeel](https://github.com/Ahmadjamil888/my-wakeel): Legal assistance software prototype.  
+- [Fileflux Transformer](https://github.com/Ahmadjamil888/fileflux-transformer): File format conversion utility.  
+- [Pak Maps](https://github.com/Ahmadjamil888/pak-maps): Pakistan-specific navigation and routing tool.  
+- [Aziz AI](https://github.com/Ahmadjamil888/Aziz-AI), [Jinnah AI](https://github.com/Ahmadjamil888/jinnah-AI), [Faiz AI](https://github.com/Ahmadjamil888/faiz-ai): AI assistants with multilingual support.  
+- [File Threat Finder](https://github.com/Ahmadjamil888/file-threat-finder): A security tool for detecting harmful files.
 
 To explore more repositories, visit [github.com/Ahmadjamil888](https://github.com/Ahmadjamil888?tab=repositories)
 
