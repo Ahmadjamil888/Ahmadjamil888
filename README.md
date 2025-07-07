@@ -58,7 +58,7 @@ To explore more repositories, visit [github.com/Ahmadjamil888](https://github.co
 
 - **Languages**: Python, JavaScript, PHP  
 - **Web Development**: HTML, CSS, React, Laravel, Next.js  
-- **AI & Machine Learning**: TensorFlow, Scikit-learn, HuggingFace, Langchain  
+- **AI & Machine Learning**: Pytorch, Scikit-learn, HuggingFace, Langchain, openCV, Flask  
 - **Database Systems**: MySQL, PostgreSQL, MongoDB  
 - **Deployment Tools**: Docker, Vercel, AWS  
 - **UI/UX & Prototyping**: Figma, Framer, Adobe XD  
