@@ -12,6 +12,7 @@ Ahmad Jamil is a software developer and researcher with core expertise in full-s
 He is affiliated with the following:
 
 - **Founder** – [Ameenor](https://ameenor.odoo.com), a technology initiative focusing on AI-based development tools.
+- **Founder & CEO** - [ZehanX Technologies](https://zehanx.vercel.app/), a Machine learning focused Full Stack web development company.
 - **Affiliate** – [Aurion Softwares](https://aurionsoft.site/), specializing in modern SaaS and enterprise-grade applications.
 - **Intern** – Aurion Tech Global.
 - **Contributor** – IRTCoP (International Road Transport Chamber of Pakistan), with written publications on technology.
@@ -93,7 +94,8 @@ To explore more repositories, visit [github.com/Ahmadjamil888](https://github.co
 ## Contact Details
 
 - **Email**: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
-- **Personal Website**: [Portfolio](https://ahmad-site-three.vercel.app/)  
+- **Personal Website**: [Portfolio](https://ahmad-site-three.vercel.app/)
+- **Company**: [ZehanX Technologies](https://zehanx.vercel.app/)  
 - **AI Project Hub**: [Ameenor](https://ameenor.odoo.com)  
 - **Upwork**: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
 - **Hugging Face**: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
