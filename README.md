@@ -13,7 +13,6 @@ He is affiliated with the following:
 
 - **Founder** – [Ameenor](https://ameenor.odoo.com), a technology initiative focusing on AI-based development tools.
 - **Founder & CEO** - [ZehanX Technologies](https://zehanx.vercel.app/), a Machine learning focused Full Stack web development company.
-- **Affiliate** – [Aurion Softwares](https://aurionsoft.site/), specializing in modern SaaS and enterprise-grade applications.
 - **Intern** – Aurion Tech Global.
 - **Contributor** – IRTCoP (International Road Transport Chamber of Pakistan), with written publications on technology.
 
