@@ -94,8 +94,7 @@ To explore more repositories, visit [github.com/Ahmadjamil888](https://github.co
 ## Contact Details
 
 - **Email**: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
-- **Personal Website**: [Portfolio](https://ahmad-site-three.vercel.app/)
-- **Company**: [ZehanX Technologies](https://zehanx.vercel.app/)  
+- **Personal Website**: [Portfolio](https://ahmad-site-three.vercel.app/) 
 - **AI Project Hub**: [Ameenor](https://ameenor.odoo.com)  
 - **Upwork**: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
 - **Hugging Face**: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
