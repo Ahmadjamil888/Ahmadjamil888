@@ -1,101 +1,118 @@
 
-# Source Code Repository – Ahmad Jamil
+# Ahmad Jamil – GitHub Portfolio
 
-This GitHub repository serves as a central archive of development projects authored and maintained by Ahmad Jamil. The collection includes a broad range of work in artificial intelligence, full-stack web development, software engineering, and applied research. Each project is organized with practical use cases in mind and reflects the ongoing pursuit of technical depth, functional design, and system efficiency.
-
----
-
-## About the Author
-
-Ahmad Jamil is a software developer and researcher with core expertise in full-stack web development, artificial intelligence, and applied data systems. He has contributed to various fields including language modeling, quantum computing education, and legal and religious automation platforms. His work integrates frontend design, backend logic, AI integration, and scalable deployment architecture.
-
-He is affiliated with the following:
-
-- **Founder & CEO** - [ZehanX Technologies](https://zehanxtech.vercel.app/), a Machine learning focused Full Stack web development company.
-- **Intern** – Aurion Tech Global.
-- **Contributor** – IRTCoP (International Road Transport Chamber of Pakistan), with written publications on technology).
+Welcome to the comprehensive GitHub repository of **Ahmad Jamil**, an AI innovator, full-stack engineer, and founder of ZehanX Technologies. This portfolio showcases a rich and diverse collection of projects built across artificial intelligence, web technologies, cybersecurity, data science, and applied research in automation and quantum education.
 
 ---
 
-## Selected Projects
+## Overview
 
-| Project Name | Domain | Description |
-|--------------|--------|-------------|
-| [AhmadGPT](https://github.com/Ahmadjamil888/AhmadGPT) | Language Modeling | A custom-built generative language model with support for multimodal capabilities including text, code, and speech. |
-| [Quranic Scholar AI](https://github.com/Ahmadjamil888/quranic-scholar-ai) | NLP + Religion | An AI-based platform that helps users explore and understand the Quran using natural language understanding and context-based retrieval. |
-| [Sentiment Analysis Model](https://github.com/Ahmadjamil888/Sentiment-Analysis-Model-AI) | NLP | A machine learning model that classifies sentiment in text as positive or negative. |
-| [A* Pathfinding Visualizer](https://github.com/Ahmadjamil888/AI-pathfinder-astarpathfinder) | Algorithms | A visual implementation of the A* pathfinding algorithm with a clean UI. |
-| [Custom LLM Model Downloader](https://github.com/Ahmadjamil888/CUSTOM-LLM-MODEL-DL) | Infrastructure | Tool to download, configure, and prepare custom LLM models for research and development. |
-| [Crypto AI Trading Bot (LSTM)](https://github.com/Ahmadjamil888/CRYPTO-AI-TRADING-BOT-LSTM) | Time Series / Finance | An AI trading bot using LSTM to analyze and predict market trends for cryptocurrencies. |
-| [Realtime Object Detection Surveillance](https://github.com/Ahmadjamil888/REALTIME-OBJ-DETECTION-SURVEILLANCE) | Computer Vision | An AI system for real-time object detection used for surveillance and monitoring environments. |
-| [Pneumonia X-ray Detection Model](https://github.com/Ahmadjamil888/PNEUMONIA-XRAY-AI-model) | Medical Imaging | A convolutional neural network model designed to detect pneumonia in chest X-ray images. |
-| [Facial Recognition AI Model](https://github.com/Ahmadjamil888/Facial-Recognition-AI-model) | Biometrics | A face detection and recognition model trained on labeled facial datasets. |
+- **Name:** Ahmad Jamil
+- **Role:** Founder & CEO – [ZehanX Technologies](https://zehanxtech.vercel.app/)
+- **Focus Areas:** AI, Full-stack Development, ML Infrastructure, Quantum Systems, Applied Research
+- **Email:** shazabjamildhami@gmail.com
+- **Website:** [Portfolio](https://ahmad-site-three.vercel.app/)
+- **GitHub Profile:** [github.com/Ahmadjamil888](https://github.com/Ahmadjamil888)
+
+![Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=1650&q=80)
 
 ---
 
-## Additional Projects
+## GitHub Statistics
 
-- [DocuPaste](https://github.com/Ahmadjamil888/docupaste): A secure document upload and conversion platform.  
-- [Smart Resume Reader](https://github.com/Ahmadjamil888/smart-resume-reader): A GPT-enhanced resume analysis tool.  
-- [Qubit Web Wizard](https://github.com/Ahmadjamil888/qubit-web-wizard): An educational app for quantum computing basics.  
-- [Insta Glow Verse](https://github.com/Ahmadjamil888/insta-glow-verse): A social media UI prototype.  
-- [Cardly AI Guide](https://github.com/Ahmadjamil888/cardly-ai-guide): AI-enhanced business card generator.  
-- [Ink Flow Share](https://github.com/Ahmadjamil888/ink-flow-share): Markdown-based blog tool with history and authentication.  
-- [Electro Blitz](https://github.com/Ahmadjamil888/electro-blitz): UI for an eCommerce platform.  
-- [ARMANsoft](https://github.com/Ahmadjamil888/ARMANsoft): A Laravel-based business dashboard.  
-- [My Wakeel](https://github.com/Ahmadjamil888/my-wakeel): Legal assistance software prototype.  
-- [Fileflux Transformer](https://github.com/Ahmadjamil888/fileflux-transformer): File format conversion utility.  
-- [Pak Maps](https://github.com/Ahmadjamil888/pak-maps): Pakistan-specific navigation and routing tool.  
-- [Aziz AI](https://github.com/Ahmadjamil888/Aziz-AI), [Jinnah AI](https://github.com/Ahmadjamil888/jinnah-AI), [Faiz AI](https://github.com/Ahmadjamil888/faiz-ai): AI assistants with multilingual support.  
-- [File Threat Finder](https://github.com/Ahmadjamil888/file-threat-finder): A security tool for detecting harmful files.
-
-To explore more repositories, visit [github.com/Ahmadjamil888](https://github.com/Ahmadjamil888?tab=repositories)
+| Followers | Public Repositories | Contributions (Last Year) |
+|-----------|---------------------|----------------------------|
+| ![Followers](https://img.shields.io/github/followers/Ahmadjamil888?color=blue&label=Followers) | ![Repos](https://img.shields.io/github/repos/Ahmadjamil888?color=green&label=Public%20Repos) | ![Contributions](https://img.shields.io/github/contributions/2024/Ahmadjamil888?color=purple&label=Commits) |
 
 ---
 
-## Technical Skills
+## 🔹 Highlighted Projects
 
-- **Languages**: Python, JavaScript, PHP  
-- **Web Development**: HTML, CSS, React, Laravel, Next.js  
-- **AI & Machine Learning**: Pytorch, Scikit-learn, HuggingFace, Langchain, openCV, Flask  
-- **Database Systems**: MySQL, PostgreSQL, MongoDB  
-- **Deployment Tools**: Docker, Vercel, AWS  
-- **UI/UX & Prototyping**: Figma, Framer, Adobe XD  
-- **CMS & ERP Platforms**: WordPress, Odoo  
+### Crypto AI Trading Bot (LSTM)
+A real-time cryptocurrency trading bot powered by LSTM neural networks. Capable of forecasting crypto prices based on past patterns and executing mock trades with confidence thresholds.
 
----
-
-## Learning and Research Interests
-
-- Fine-tuning and optimization of large language models  
-- Integration of AI into legal, educational, and defense applications  
-- Applied research in quantum AI systems  
-- Design of scalable AI-powered SaaS tools  
-- Contribution to ethical and open-source AI development  
+- **Tech:** Python, NumPy, Pandas, Matplotlib, Keras
+- **Video Preview:** [Watch Demo](https://user-images.githubusercontent.com/placeholder/trading-bot-preview.mp4)
+- **Repository:** [View Code](https://github.com/Ahmadjamil888/CRYPTO-AI-TRADING-BOT-LSTM)
 
 ---
 
-## Certifications and Academic Credentials
+### Real-time Object Detection Surveillance
+Computer vision system for live object tracking using webcam or CCTV feeds. Utilizes pretrained YOLO models and OpenCV for high-speed detection.
+
+- **Tech:** Python, OpenCV, YOLO, TensorFlow
+- **Repository:** [View Code](https://github.com/Ahmadjamil888/REALTIME-OBJ-DETECTION-SURVEILLANCE)
+
+---
+
+### Pneumonia X-ray Detection Model
+AI-powered diagnostic tool for identifying pneumonia in chest X-rays using a CNN-based architecture. Built for medical imaging applications.
+
+- **Tech:** TensorFlow, Keras, CNN, Python
+- **Repository:** [View Code](https://github.com/Ahmadjamil888/PNEUMONIA-XRAY-AI-model)
+
+---
+
+## 🔸 Additional Featured Projects
+
+| Project | Domain | Description |
+|--------|--------|-------------|
+| [Smart Resume Reader](https://github.com/Ahmadjamil888/smart-resume-reader) | NLP / Automation | AI-assisted resume analyzer using GPT logic to evaluate key skills. |
+| [Qubit Web Wizard](https://github.com/Ahmadjamil888/qubit-web-wizard) | Quantum EdTech | Interactive tool to explain quantum concepts in visual steps. |
+| [Cardly AI Guide](https://github.com/Ahmadjamil888/cardly-ai-guide) | AI / Business Tools | AI-powered business card designer and generator. |
+| [Electro Blitz](https://github.com/Ahmadjamil888/electro-blitz) | UI / eCommerce | Frontend and backend for an eCommerce site using React & Laravel. |
+| [File Threat Finder](https://github.com/Ahmadjamil888/file-threat-finder) | Cybersecurity | Scans and detects malicious code patterns in uploaded files. |
+| [ARMANsoft](https://github.com/Ahmadjamil888/ARMANsoft) | ERP / Dashboard | Full-featured Laravel dashboard for managing business operations. |
+| [Fileflux Transformer](https://github.com/Ahmadjamil888/fileflux-transformer) | Developer Tools | CLI tool to convert files between formats (CSV, JSON, XML). |
+| [Pak Maps](https://github.com/Ahmadjamil888/pak-maps) | GIS / Routing | Navigation and route planning platform for Pakistan. |
+
+---
+
+## 📘 Learning Interests
+
+- Large Language Model Fine-Tuning and Infrastructure
+- Cross-platform AI integration in education, defense, and law
+- AI model quantization, distillation, and inference optimization
+- Quantum AI chip simulation and SaaS architecture for public AI tools
+
+---
+
+## 🛠 Technical Skills
+
+| Area | Tools / Frameworks |
+|------|--------------------|
+| Programming Languages | Python, JavaScript, PHP |
+| Web Development | Next.js, React, Laravel, HTML/CSS |
+| ML Frameworks | TensorFlow, Pytorch, HuggingFace, Langchain |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| DevOps | Docker, Vercel, AWS |
+| UI/UX | Figma, Framer, Adobe XD |
+| Platforms | GitHub, HuggingFace, Upwork, WordPress, Odoo |
+
+---
+
+## 🎓 Certifications
 
 | Course Title | Provider |
 |--------------|----------|
 | Python for Beginners | Microsoft |
 | HTML & CSS Development | W3Schools |
-| Introduction to Computer Science (CS50) | Harvard University |
-| Artificial Intelligence with Python (CS50 AI) | Harvard University |
+| Introduction to CS (CS50) | Harvard University |
+| CS50 AI with Python | Harvard University |
 | Building LLMs from Scratch | Vizuara AI Labs |
 | AI for Beginners | XEVEN Technologies |
 | AI for Beginners | HP LIFE |
 
 ---
 
-## Contact Details
+## 📎 Contact & Network
 
-- **Email**: [shazabjamildhami@gmail.com](mailto:shazabjamildhami@gmail.com)  
-- **Personal Website**: [Portfolio](https://ahmad-site-three.vercel.app/) 
-- **company**: [ZehanX](https://zehanxtech.vercel.app/) 
-- **Upwork**: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)  
-- **Hugging Face**: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
+- Portfolio: [https://ahmad-site-three.vercel.app](https://ahmad-site-three.vercel.app)
+- GitHub: [https://github.com/Ahmadjamil888](https://github.com/Ahmadjamil888)
+- Company: [https://zehanxtech.vercel.app](https://zehanxtech.vercel.app)
+- Email: shazabjamildhami@gmail.com
+- Upwork: [@ahmadjamil888](https://www.upwork.com/freelancers/~014d323b1c2d3274b6?viewMode=1)
+- Hugging Face: [ahmad-jamil](https://huggingface.co/ahmad-jamil)
 
 ---
 
@@ -103,4 +120,4 @@ To explore more repositories, visit [github.com/Ahmadjamil888](https://github.co
 
 > “Indeed, with hardship comes ease.” — Quran 94:6
 
-This repository is maintained regularly. Contributions, feedback, and collaborations are welcome.
+This portfolio is maintained with regular updates and open to collaboration. Thank you for visiting.
