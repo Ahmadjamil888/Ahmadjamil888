@@ -68,6 +68,7 @@ Passionate about building futuristic tech, defense software, and generative AI. 
 -  [website](https://ahmad-site-three.vercel.app/)
 -  shazabjamildhami@gmail.com
 -  [GitHub](https://github.com/Ahmadjamil888)
+-  [Company](https://zehanx.vercel.app)
 
 ---
 
