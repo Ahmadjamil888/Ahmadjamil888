@@ -65,7 +65,7 @@ Passionate about building futuristic tech, defense software, and generative AI. 
 ---
 
 ##  Contact
--  [LinkedIn](https://linkedin.com/in/ahmadjamil888)
+-  [website](https://ahmad-site-three.vercel.app/)
 -  shazabjamildhami@gmail.com
 -  [GitHub](https://github.com/Ahmadjamil888)
 
