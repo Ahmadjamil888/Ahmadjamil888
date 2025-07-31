@@ -26,7 +26,6 @@ const ahmadJamilDhami = {
     location: "Pakistan",
     specialization: ["AI/ML", "Quantum Computing", "Web Development"],
     experience: "Full-Stack Web Developer",
-    repositories: "54 Public Repositories",
     followers: "Growing Developer Community",
     mission: "Advancing Pakistan's tech ecosystem",
     vision: "Leading innovation in AI and web technologies"
