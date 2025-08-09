@@ -438,7 +438,7 @@ Founder & CEO, ZehanX Technologies
 - **Email:** shazabjamildhami@gmail.com
 - **GitHub:** [@Ahmadjamil888](https://github.com/Ahmadjamil888)
 - **Location:** Pakistan
-- **Social:** [@ahmad-jamil888](https://ahmad-site-three.vercel.app/)
+- **upwork:** [Ahmad jamil Dhami](https://www.upwork.com/freelancers/~01785c13a04c9505c6)
 
 ---
 
