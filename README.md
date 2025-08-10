@@ -439,6 +439,7 @@ Founder & CEO, ZehanX Technologies
 - **GitHub:** [@Ahmadjamil888](https://github.com/Ahmadjamil888)
 - **Location:** Pakistan
 - **upwork:** [Ahmad jamil Dhami](https://www.upwork.com/freelancers/~01785c13a04c9505c6)
+- **medium:** [@ahmadjamildhami](https://medium.com/@ahmadjamildhami)
 
 ---
 
