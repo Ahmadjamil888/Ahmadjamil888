@@ -435,7 +435,7 @@ Founder & CEO, ZehanX Technologies
 
 - **Personal Portfolio:** [ahmad-site-three.vercel.app](https://ahmad-site-three.vercel.app/)
 - **Company Website:** [zehanxtech.com](https://zehanxtech.com)
-- **Email:** shazabjamildhami@gmail.com
+- **Email:** ahmadjamildhami@gmail.com
 - **GitHub:** [@Ahmadjamil888](https://github.com/Ahmadjamil888)
 - **Location:** Pakistan
 - **upwork:** [Ahmad jamil Dhami](https://www.upwork.com/freelancers/~01785c13a04c9505c6)
