@@ -407,13 +407,12 @@ With **54 public repositories** and a growing community of followers, my GitHub 
 **Ahmad Jamil Dhami**  
 Founder & CEO, ZehanX Technologies
 
-- **Personal Portfolio:** [ahmad-site-three.vercel.app](https://ahmad-site-three.vercel.app/)
+-**PSX Ledger:** [PSXL](https://psxl.live)
 - **Company Website:** [zehanxtech.com](https://zehanxtech.com)
 - **Email:** ahmadjamildhami@gmail.com
-- **GitHub:** [@Ahmadjamil888](https://github.com/Ahmadjamil888)
+- **Instagram:** [@ahmad_jamil_official]([https://github.com/Ahmadjamil888](https://www.instagram.com/ahmad_jamil_official/))
 - **Location:** Pakistan
-- **upwork:** [Ahmad jamil Dhami](https://www.upwork.com/freelancers/~01785c13a04c9505c6)
-- **medium:** [@ahmadjamildhami](https://medium.com/@ahmadjamildhami)
+
 
 ---
 
