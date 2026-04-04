@@ -146,32 +146,8 @@ const ahmadJamilDhami = {
 
 ---
 
-### ZehanX Technologies Website
-<table>
-<tr>
-<td width="40%">
 
-<img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="100%" />
 
-</td>
-<td width="60%">
-
-**Advanced company website with AI integration**
-- **Futuristic design** with Framer Motion animations
-- **AI-powered features** and interactive elements
-- **Responsive design** across all devices
-- **High performance** and optimized loading
-- **Professional business presentation**
-
-**Tech Stack:** TypeScript, Next.js, Framer Motion, TailwindCSS
-
-[Live Site](https://zehanxtech.com) | [Repository](https://github.com/Ahmadjamil888/ADVANCED_WEBSITE_DESIGN)
-
-</td>
-</tr>
-</table>
-
----
 
 ### Custom LLM Tokenizer
 <table>
