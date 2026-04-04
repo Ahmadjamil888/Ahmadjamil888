@@ -1,14 +1,12 @@
 <div align="center">
 
 # Ahmad Jamil | Founder & CEO, ZehanX Technologies
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Founder+%26+CEO+ZehanX+Technologies;Full+Stack+Web+Developer;AI+%26+Quantum+Computing+Specialist;Machine+Learning+Engineer;Data+Science+Professional" alt="Typing SVG" />
 
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</div>
+
 
 ---
 
