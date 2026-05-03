@@ -274,25 +274,11 @@ As Founder and CEO of ZehanX Technologies, I lead a forward-thinking company spe
 
 ---
 
-## Repository Statistics
-
-With **54 public repositories** and a growing community of followers, my GitHub showcases a diverse range of projects spanning:
-
-- **AI & Machine Learning:** 15+ repositories
-- **Web Development:** 20+ repositories  
-- **Data Science:** 10+ repositories
-- **Gaming & Interactive:** 5+ repositories
-- **Tools & Utilities:** 4+ repositories
-
----
-
 ## Professional Contact Information
 
 **Ahmad Jamil Dhami**  
 Founder & CEO, ZehanX Technologies
 
--**PSX Ledger:** [PSXL](https://psxl.live)
-- **Company Website:** [zehanxtech.com](https://zehanxtech.com)
 - **Email:** ahmadjamildhami@gmail.com
 - **Instagram:** [@ahmad_jamil_official]([https://github.com/Ahmadjamil888](https://www.instagram.com/ahmad_jamil_official/))
 - **Location:** Pakistan
