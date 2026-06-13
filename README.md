@@ -280,7 +280,7 @@ As Founder and CEO of ZehanX Technologies, I lead a forward-thinking company spe
 Founder & CEO, ZehanX Technologies
 
 - **Email:** ahmadjamildhami@gmail.com
-- **Instagram:** [@ahmad_jamil_official]([https://github.com/Ahmadjamil888](https://www.instagram.com/ahmad_jamil_official/))
+- **Instagram:** [@ahmadjamil.official]([https://github.com/Ahmadjamil888](https://www.instagram.com/ahmadjamil.official/))
 - **Location:** Pakistan
 
 
