@@ -1,8 +1,6 @@
 <div align="center">
 
 # Ahmad Jamil | Entrepreneur, Machine learning engineer
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Entrepreneur+%26+Machine+learning+engineer;Full+Stack+Web+Developer;AI+%26+Quantum+Computing+Specialist;Machine+Learning+Engineer;Data+Science+Professional" alt="Typing SVG" />
-
 
 </div>
 
