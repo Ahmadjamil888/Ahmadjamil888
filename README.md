@@ -17,11 +17,9 @@
 ### About Me
 ```javascript
 const ahmadJamilDhami = {
-    role: "Founder & CEO",
-    company: "ZehanX Technologies",
     location: "Pakistan",
     specialization: ["AI/ML", "Quantum Computing", "Web Development"],
-    experience: "Full-Stack Web Developer",
+    experience: "AI/ML engineer, software engineer",
     followers: "Growing Developer Community",
     mission: "Advancing Pakistan's tech ecosystem",
     vision: "Leading innovation in AI and web technologies"
@@ -29,17 +27,7 @@ const ahmadJamilDhami = {
 ```
 
 </td>
-<td width="50%">
 
-### Current Focus
-- **Leading ZehanX Technologies**
-- **AI & Quantum Computing Research**
-- **Advanced Web Development Solutions**
-- **Reinforcement Learning Applications**
-- **Machine Learning Model Development**
-- **AI Gaming & Interactive Systems**
-
-</td>
 </tr>
 </table>
 
