@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmad Jamil | Entrepreneur, Machine learning engineer
+# Ahmad Jamil | INDIE HACKER, Machine learning engineer, Data Scientist
 
 </div>
 
