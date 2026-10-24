@@ -1,8 +1,3 @@
-<div align="center">
-
-# Ahmad Jamil | INDIE HACKER, Machine learning engineer, Data Scientist
-
-</div>
 
 
 
@@ -16,7 +11,7 @@
 
 ### About Me
 ```javascript
-const ahmadJamilDhami = {
+const ahmadJamil = {
     location: "Pakistan",
     specialization: ["AI/ML", "Quantum Computing", "Web Development"],
     experience: "AI/ML engineer, software engineer",
