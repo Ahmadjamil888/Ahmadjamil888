@@ -1,15 +1,3 @@
-
-
-
----
-
-## Professional Overview
-
-<table>
-<tr>
-<td width="50%">
-
-### About Me
 ```javascript
 const ahmadJamil = {
     location: "Pakistan",
