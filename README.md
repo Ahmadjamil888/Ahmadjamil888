@@ -16,7 +16,6 @@ const ahmadJamil = {
 
 ---
 
-## GitHub Analytics & Performance
 
 <div align="center">
   
@@ -40,8 +39,6 @@ const ahmadJamil = {
 </div>
 
 ---
-
-## Technology Stack & Expertise
 
 <div align="center">
 
