@@ -27,22 +27,22 @@ const ahmadJamil = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmadjamil888&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjamil888&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ahmadjamilofficial&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjamilofficial&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
 </div>
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjamil888&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadjamilofficial&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Followers](https://img.shields.io/github/followers/Ahmadjamil888?style=for-the-badge&color=00D9FF&labelColor=000000)](https://github.com/Ahmadjamil888)
-[![GitHub Stars](https://img.shields.io/github/stars/Ahmadjamil888?style=for-the-badge&color=FFD700&labelColor=000000)](https://github.com/Ahmadjamil888)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ahmadjamil888&style=for-the-badge&color=00D9FF&labelColor=000000)](https://github.com/Ahmadjamil888)
+[![GitHub Followers](https://img.shields.io/github/followers/Ahmadjamil888?style=for-the-badge&color=00D9FF&labelColor=000000)](https://github.com/Ahmadjamilofficial)
+[![GitHub Stars](https://img.shields.io/github/stars/Ahmadjamil888?style=for-the-badge&color=FFD700&labelColor=000000)](https://github.com/Ahmadjamilofficial)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ahmadjamil888&style=for-the-badge&color=00D9FF&labelColor=000000)](https://github.com/Ahmadjamilofficial)
 
 </div>
 
